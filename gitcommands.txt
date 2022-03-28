@@ -1,1 +1,9 @@
 git init [for initializing git]
+
+git commit
+
+git add
+
+git pull
+
+git push
