@@ -1,9 +1,13 @@
 git init [for initializing git]
 
-git commit
+git status [for listing all untracked filrs]
 
-git add
+git commit -m"message" [adding files to local repo]
+
+git add -A [adding changes to staging area]
+
+git remote add name path [adding remote]
 
 git pull
 
-git push
+git push -u name master [for pushing]
